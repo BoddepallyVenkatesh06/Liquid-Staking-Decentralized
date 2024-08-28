@@ -30,7 +30,7 @@ export const Footer = () => {
               </a>
               🫗 |{" "}
               <a
-                href="https://github.com/BoddepallyVenkatesh06"
+                href="https://github.com/harshagrawal2503"
                 target="_blank"
                 rel="noreferrer"
                 className="underline underline-offset-2"
